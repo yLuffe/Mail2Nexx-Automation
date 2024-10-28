@@ -1,0 +1,4 @@
+grupo_ext: A
+cnpj: B
+empresa: C
+caixa_postal_ext: D

@@ -1,0 +1,41 @@
+#=============| DADOS DE CONTATO |============#
+responsavel_empresa: Rafael Teles
+tel_empresa: (11) 98887-2616
+email_empresa: rafael.teles@generalcorporate.com.br
+
+responsavel_instituicao: Operações Atacado
+tel_instituicao: 0
+email_instituicao: kenia.zanata@mailer.com.br
+
+#=============| Produção / Teste |============#
+ambiente: Produção
+
+#========| DOMÍNIO E ID CAIXA POSTAL |========#
+dominio: GENERALCORPORATE
+id_caixa_postal: 46603
+
+#============| CAMPOS ADICIONAIS |============#
+custo_trafego: 100% EMPRESA
+faturamento: FATURAVEL
+
+#=============| GRUPO PAG E COB |=============#
+id_grupo: 
+
+#===========| CAMPOS DE PAGAMENTO |===========#
+caixa_postal_cliente:
+caixa_postal_banco:
+
+#===========| CAMPOS DE COBRANÇA |============#
+carteira: 
+
+#===========| CAMPOS DE VARREDURA |===========#
+banco: 
+produto_var: 
+
+#==============| CAMPOS DE PIX |==============#
+banco:
+produto_pix:
+
+#========| CAMPOS EXTRATO ELETRONICO |========#
+grupo_ext: GENERALCORPORATE
+caixa_postal_ext: GENERALCORPORATE.GENERALCORPORATE

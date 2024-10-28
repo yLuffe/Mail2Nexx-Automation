@@ -1,0 +1,10 @@
+template_key: A
+cnpj: B
+empresa: C
+responsavel_empresa: D
+tel_empresa: E
+email_empresa: F
+dominio: G
+responsavel_instituicao: I
+tel_instituicao: J
+email_instituicao: K
